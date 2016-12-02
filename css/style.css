@@ -1,0 +1,10 @@
+.table td.tdRight {
+	text-align: right;
+}
+.table td.tdCenter {
+  text-align: center;
+}
+
+.tdRight{
+	text-align: left;
+}
